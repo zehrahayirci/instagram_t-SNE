@@ -7,7 +7,7 @@ This notebook best work in Google Colab, and don't forget to enable GPU from Edi
 
 I use [Jonker-Volgenant algorithm](https://blog.sourced.tech/post/lapjv/) to create a nice grid for instagram!
 
-My instagram with Histogram t-SNE
+[My instagram](https://www.instagram.com/tokyoda100gun/) with Histogram t-SNE
 
 <img alt="insta t-SNE" src="https://github.com/zehrahayirci/instagram_t-SNE/blob/master/insta_histogram.png" width="300">
 
